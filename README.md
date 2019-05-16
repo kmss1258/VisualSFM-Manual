@@ -6,7 +6,7 @@ VisualSFM 실행 방법 메뉴얼 작성 / 실행 결과 저장
 LINK : http://ccwu.me/vsfm/
 > 어지간하면 GPU를 사용하는 것이 좋음. 컴퓨팅 시간이 너무 많이 들어서 (Nvidia 계열)
 
-## Sample Images Download Link
+## Sample Images Download Link (Not Official)
 
 REFERENCE : https://peterfalkingham.com/2016/10/04/photogrammetry-testing-3-visualsfm-pmvs-meshlab/    
 Download LINK : http://bitly.kr/L28vC4
