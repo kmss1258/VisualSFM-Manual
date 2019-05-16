@@ -7,8 +7,7 @@ LINK : http://ccwu.me/vsfm/
 
 # Sample Images Download Link
 
-REFERENCE : (https://peterfalkingham.com/2016/10/04/photogrammetry-testing-3-visualsfm-pmvs-meshlab/)
-LINK : https://onedrive.live.com/?authkey=%21AO6WQY7aaKBtwBk&cid=17DFFF52B691466E&id=17DFFF52B691466E%21658328&parId=17DFFF52B691466E%21134076&action=defaultclick
-
+REFERENCE : https://peterfalkingham.com/2016/10/04/photogrammetry-testing-3-visualsfm-pmvs-meshlab/    
+Download LINK : http://bitly.kr/L28vC4
 
 # 사용법
