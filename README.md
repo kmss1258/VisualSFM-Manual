@@ -56,8 +56,7 @@ Download LINK : http://bitly.kr/L28vC4
 
 ## Error Debugging
 
-###CANNOT USE SiftGPU
--------
+### CANNOT USE SiftGPU
 
 #### Pairwise Matching 할 때, Log Window를 열면 0초만에 종료되고 SiftGPU를 사용할 수 없다고 뜬다.
 > 해당 방법의 경우 메뉴얼을 찾아보면 나오겠지만 GPU 메모리를 할당 할 수 없거나 그래픽 카드를 사용할 수 없을때 발생하는 경우다.
