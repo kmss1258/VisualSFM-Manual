@@ -19,7 +19,7 @@ Download LINK : http://bitly.kr/L28vC4
     
     
     
-![img1](./image.png)    
+![img1](./assets/image.png)    
     
     
     
@@ -28,7 +28,7 @@ Download LINK : http://bitly.kr/L28vC4
 
 ### **1. File - Open+ Multi Images**
 
-![img2](./image2.PNG)
+![img2](./assets/image2.PNG)
 > 1~2 분 정도가 지나면 이미지들을 Load 한다.
 
 ### **2. Compute Missing Matches**
@@ -40,7 +40,7 @@ Download LINK : http://bitly.kr/L28vC4
 버튼 \[3.\] Reconstruct Sparse를 클릭한다.    
 
 해당 결과 이미지
-> ![img3](./image3.png)    
+> ![img3](./assets/image3.png)    
 
 ### **4. Dense Reconstruction**
     
